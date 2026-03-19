@@ -102,6 +102,7 @@ transform: translate(-50%,-50%);}
 
 .btn1{border: 1px solid #fff;
 padding: 5px 20px;
+
 color: #fff;
 transition: 0.5 ease;
 font-size: 18px;
@@ -151,12 +152,36 @@ img:hover{
     width: 100%;
 }
 
+
+
 @media(max-width:768px){
-.one{
-    width: 95%;
+
+.t2{
+    width: 100%;
+    align-items: center;
+   
 }
+.fo4{font-size: 25px;
+padding-left: 5px;
+padding-right: 5px;}
+.menu{ }
+
+ul li{font-size: 15px;
+    font-weight: 1000;
+    margin-left: 10px;
+    
+}
+.search{margin-left: 170px;}
+.button{margin-top: 70px;}
+.button a{display: block;
+margin-bottom: 7px;}
+    
+
+
+
+
+
+
+
 
 }
-
-
-
