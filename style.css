@@ -151,7 +151,12 @@ img:hover{
     width: 100%;
 }
 
+@media(max-width:768px){
+.one{
+    width: 95%;
+}
 
+}
 
 
 
