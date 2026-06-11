@@ -195,32 +195,6 @@ margin-top: 30px;}
     font-weight: 700;
 }
 
-.footer{
-    background-color: black;
-    color: aliceblue;
-    padding: 1em;
-    display: flex;
-margin-top: 50px;
-border-radius: 1em;
-position: relative;
-overflow: hidden;
-
-}
-.vidfo{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    opacity: 0.5;
-    
-    
-}
-footer .fo4{
-    color: rgb(250, 250, 252);
-}
-
 
 
 
